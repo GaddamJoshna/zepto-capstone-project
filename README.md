@@ -1,4 +1,4 @@
-# Module 3 — Zepto Generative AI Support Assistant
+
 # Module 1 — Data Pipeline
 
 ## Purpose
