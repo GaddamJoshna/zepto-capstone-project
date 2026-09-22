@@ -1,0 +1,18 @@
+FINAL MODEL COMPARISON AND RECOMMENDATION
+============================================================
+
+Highest F1 classification model: Random Forest
+F1 Score: 0.7463
+
+Classification models were compared using accuracy, precision, recall, F1 score, and AUC.
+F1 score was considered because it balances precision and recall.
+
+Regression model: Multivariate Linear Regression
+MAE: 20.8094
+RMSE: 30.4731
+R2: 0.3999
+Adjusted R2: 0.3753
+
+The residual analysis suggests possible heteroscedasticity because the residual spread increases for higher predicted fare values.
+
+The final model selection should consider the evaluation metrics and the objective of the project.
